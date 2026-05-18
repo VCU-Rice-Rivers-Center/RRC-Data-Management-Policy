@@ -1,9 +1,7 @@
 ---
-output:
-  html_document: default
+layout: default
+title: Domain Specific Repositories 
 ---
-
-# **Domain Specific Repositories**
 
 ### About this document
 This document will report on domain-specific repositories that have been used for research
