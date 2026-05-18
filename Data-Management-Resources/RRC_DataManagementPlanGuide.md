@@ -1,9 +1,7 @@
 ---
-output:
-  html_document: default
+layout: default
+title: Data Management Plan (DMP) Guide
 ---
-
-# **Data Management Plan (DMP) Guide**
 
 ### About this document
 The Rice Rivers Center (RRC) is working to build infrastructure that illuminates the relationship between 

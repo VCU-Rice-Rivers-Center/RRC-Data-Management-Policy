@@ -1,9 +1,7 @@
 ---
-output:
-  html_document: default
-  word_document: default
+layout: default
+title: Data Management Plan (DMP) Template
 ---
-# **Data Management Plan (DMP) Template**
 
 ### About this document
 Use this template to complete your DMP. Because a DMP should be treated as a living document, it is 
