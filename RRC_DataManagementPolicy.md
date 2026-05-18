@@ -1,5 +1,3 @@
-## Rice Rivers Center Data Management Policy
-
 *It is acknowledged that this is an aspirational policy, and that implementation will take some years. Implementation plans for research data management and a research data portal are in development.* 
 
 ### RRC Data Management Goals
