@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Data Repository Comparison Chart
 ---
 

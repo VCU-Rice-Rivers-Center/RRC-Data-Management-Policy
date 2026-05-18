@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Domain Specific Repositories 
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Data Management Plan (DMP) Template
 ---
 
