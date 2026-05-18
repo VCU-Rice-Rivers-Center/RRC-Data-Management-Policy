@@ -1,5 +1,5 @@
 ---
-title: Data Management Plan (DMP) Template
+title: Data Management Plan Template
 ---
 
 ### About this document

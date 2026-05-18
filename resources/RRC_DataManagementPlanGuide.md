@@ -1,5 +1,5 @@
 ---
-title: Data Management Plan (DMP) Guide
+title: Data Management Plan Guide
 ---
 
 ### About this document
