@@ -1,3 +1,8 @@
+---
+output:
+  html_document: default
+---
+
 # **Domain Specific Repositories**
 
 ### About this document

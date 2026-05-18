@@ -1,3 +1,8 @@
+---
+output:
+  html_document: default
+---
+
 # **Data Management Plan (DMP) Guide**
 
 ### About this document

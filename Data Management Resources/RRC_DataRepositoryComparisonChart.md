@@ -1,3 +1,8 @@
+---
+output:
+  html_document: default
+---
+
 # **Data Repository Comparison Chart**
 
 ### About this document
