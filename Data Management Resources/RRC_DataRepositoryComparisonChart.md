@@ -40,6 +40,9 @@ research data repositories across various disciplines. To explore data repositor
 | [Zenodo](https://zenodo.org/) | Required fields: title, publication date, creators, and description. | All research domains. | Most file types are supported, but non-proprietary formats are preferred. | 50GB per record with a maximum of 100 files. | Free up to 50GB per record. A free one-time 200GB request is allowed. |
 | [PANGAEA](https://www.pangaea.de/) | Required fields: title, author(s), abstract, license, and parameters. | Georeferenced data from earth system research. | Focus on tabular data. Data should be formatted as TAB-delimited text files in UTF-8 encoding or open spreadsheet file formats (MS Excel). | Individual files must be less than 15GB. Limit of 20 files per submission. | Free but they accept a contribution for projects with funding for publication costs. |
 
+Another resource you can use is the [Generalist Repository Comparison Chart](https://zenodo.org/records/17315963), designed by The American Geophysical Union
+and generalist repository collaborators. This chart explores other topics and repositories not mentioned above, including
+licensing options, persistent identifiers, and usage statistics. 
 
 ## **Metadata standards and FAIR data**
 
