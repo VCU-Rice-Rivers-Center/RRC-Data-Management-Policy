@@ -1,0 +1,17 @@
+---
+title: "Publishing Data - Overview"
+---
+
+Rice Rivers Center (RRC) Data Management Policy requires research data collected at RRC or with RRC support
+to be deposited in a public data repository within 1 year of publication. This requirement is motivated by the 
+[FAIR Data Principles](https://www.go-fair.org/fair-principles/) for data to be **F**indable, **A**ccessible, 
+**I**nteroperable, and **R**eusable. If your project is funded by a grant, you may be required to publish your
+data in a specific data repository. If not, there are hundreds of data repositories to choose from for publishing 
+your data. 
+
+RRC has developed resources to help you find a destination for publishing your research data:
+
+1. The [Data Repository Comparison Chart](repoChart.qmd) compares a couple of *generalist* data repositories which 
+cover a broad range of domains. 
+2. The [Domain-Specific Repository Page](domainRepos.qmd) maintains a list of domain-specific repositories that have
+been used by RRC researchers in the past. 

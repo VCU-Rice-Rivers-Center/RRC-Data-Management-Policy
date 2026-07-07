@@ -1,0 +1,7 @@
+---
+title: "Rice Rivers Center - Data Management Resources"
+---
+
+![](images/WetlandsSummer.JPG){fig-align="center" width="6000"}
+
+Welcome to the home page for Rice Rivers Center - Data Management Resources. Contained within this site is the RRC Data Management Policy, Data Management Plan guide, and resources for publishing data.

@@ -1,19 +1,25 @@
 ---
-title: Data Management Plan Template
+title: "Data Management Plan Guide"
 ---
 
-### About this document
-Use this template to complete your DMP. Because a DMP should be treated as a living document, it is 
-recommended to save this document in a program that tracks changes over time, like Google Docs. The
-**Guidance** sections break down each DMP component into smaller questions and should be deleted after
-completing your DMP. If you would like assistance writing a DMP, contact the [RRC Data Manager](https://ricerivers.vcu.edu/directory/lauren-wick.html).
+If your research is funded through a grant, please use your funding agency's Data Management Plan requirements. 
+
+This page provides additional guidance for the 5 sections found in the RRC DMP Template:
+
+1. Data and Materials Produced
+2. Standards, Formats, and Metadata
+3. Roles and Responsibilities
+4. Policies for Data Sharing and Public Access
+5. Archiving, Storage and Preservation
+
+You can download the RRC DMP template [here](RRC_DataManagementPlanTemplate.docx).
 
 ## 1. Data and Materials Produced
 
 Describe the types of data, physical samples or collections, software, curriculum materials, and other
 materials to be produced in the course of the project.
 
-**Guidance:**
+#### Guidance
 
 * Describe the data that will be generated from the research. If you know how your data tables will be set up, 
 describe the parameters that will be recorded. 
@@ -34,7 +40,7 @@ data, physical samples)
 Describe the standards to be used for all the data types anticipated, including data or file format and
 metadata.
 
-**Guidance:**
+#### Guidance
 
 * Which file formats will you use for you data and why? (e.g. .csv, .txt, .tif) 
   * Using open formats ensures the long-term usability of data and are recommended for 
@@ -58,7 +64,7 @@ metadata.
 
 Describe the roles and responsibilities of all parties with respect to the management of the data.
 
-**Guidance:**
+#### Guidance
 
 * Who are the personnel responsible for carrying out the DMP. Name specific people and their title if
 possible. 
@@ -73,7 +79,7 @@ Describe the policies for data sharing, public access, and re-use, including re-
 the production of derivatives. Where appropriate, include provisions for protection of privacy, 
 confidentiality, security, intellectual property rights, and other rights. 
 
-**Guidance:**
+#### Guidance
 
 * How will you make the data available?
 * When will you make the data available?
@@ -94,7 +100,7 @@ available?
 Describe plans for archiving data, metadata, samples, software, and other research products. Consider
 which data will be deposited for long-term access and where.
 
-**Guidance:**
+#### Guidance
 
 * Which archive, repository, or database have you identified as a place to deposit data?
   * Check out the [RRC Data Repository Comparison Chart](https://laurenkwick.github.io/RRC-Data-Management-Policy/Data%20Management%20Resources/RRC_DataRepositoryComparisonChart.html) and
@@ -115,12 +121,10 @@ data reusable?
   * Review metadata requirements of your selected repository as well as [FAIR data standards](https://www.go-fair.org/fair-principles/) to ensure
   your published data will be reusable. 
 
-### **Acknowledgements**
+# **Acknowledgements**
 
 This document references content from VCU CHS' [Data Management Plan Guidelines and Templates](https://intranet.chs.vcu.edu/media/chs-intranet/sponsored-programs/documents/DataManagementPlanGuidanceandTemplate_accessible.docx),
 and NC State's [Drafting Your DMP Guide](https://www.lib.ncsu.edu/do/data-management/elements-of-a-dmp#TypesOfData). 
 Additional resources from [GO FAIR](https://www.go-fair.org/), the [Environmental Data Initiative](https://edirepository.org/), [Figshare](https://figshare.com/), 
 [VCU Library](https://www.library.vcu.edu/), [Research Data Alliance](https://www.rd-alliance.org/), and
 [California Institute of Technology](https://www.caltech.edu/) are noted throughout the document with direct references to their content.
-
-
