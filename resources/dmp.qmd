@@ -103,7 +103,7 @@ which data will be deposited for long-term access and where.
 #### Guidance
 
 * Which archive, repository, or database have you identified as a place to deposit data?
-  * Check out the [RRC Data Repository Comparison Chart](https://laurenkwick.github.io/RRC-Data-Management-Policy/Data%20Management%20Resources/RRC_DataRepositoryComparisonChart.html) and
+  * Check out the [RRC Data Repository Comparison Chart](https://vcu-rice-rivers-center.github.io/RRC-Data-Management-Policy/resources/repoChart.html) and
   and [VCU Research Data Management Guidelines](https://guides.library.vcu.edu/data/sharing) for help with
   making this decision. 
 * Who is the long-term data owner?
