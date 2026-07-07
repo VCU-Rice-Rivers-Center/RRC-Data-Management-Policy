@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Data Repository Comparison Chart – Rice Rivers Center - Data Management Resources</title>
+<title>Data Management Planning - Overview – Rice Rivers Center - Data Management Resources</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -104,11 +104,11 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Data Management Policy</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../resources/dmpOverview.html"> 
+    <a class="nav-link active" href="../resources/dmpOverview.html" aria-current="page"> 
 <span class="menu-text">Data Management Planning</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../resources/publishingOverview.html" aria-current="page"> 
+    <a class="nav-link" href="../resources/publishingOverview.html"> 
 <span class="menu-text">Publishing Data</span></a>
   </li>  
 </ul>
@@ -129,7 +129,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../resources/repoChart.html">Repository Comparison Chart</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../resources/dmpOverview.html">Overview</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -143,20 +143,14 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/publishingOverview.html" class="sidebar-item-text sidebar-link">
+  <a href="../resources/dmpOverview.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Overview</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../resources/repoChart.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Repository Comparison Chart</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../resources/domainRepos.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Domain Specific Repositories</span></a>
+  <a href="../resources/dmp.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">DMP Guide</span></a>
   </div>
 </li>
     </ul>
@@ -170,7 +164,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Data Repository Comparison Chart</h1>
+<h1 class="title">Data Management Planning - Overview</h1>
 </div>
 
 
@@ -187,70 +181,10 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>The table below is a starting point for choosing a data repository for archiving your data. This is not a comprehensive list of all data repositories out there, but a starting point that covers some of the most common options. The <a href="https://www.re3data.org/">re3data project</a> (Registry of Research Data Repositories) is a global registry of research data repositories across various disciplines. To explore data repositories by subject, use their <a href="https://www.re3data.org/browse/by-subject/">graphical web tool</a>.</p>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Repository Name</th>
-<th>Metadata Requirements</th>
-<th>Domain</th>
-<th>Data Formats Accepted</th>
-<th>Data Size Restrictions</th>
-<th>Storage Costs</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="https://edirepository.org/">Environmental Data Initiative</a></td>
-<td>Metadata is submitted in the Ecological Metadata Language (EML)</td>
-<td>All ecological and environmental data, irrespective of origin.</td>
-<td>Non-proprietary and non-binary format (e.g.&nbsp;.csv, .txt). Some exceptions allowed.</td>
-<td>Soft limit of 500MB and hard limit of 100GB per data package.</td>
-<td>Free</td>
-</tr>
-<tr class="even">
-<td><a href="https://datadryad.org/">Dryad</a></td>
-<td>Required fields: journal name, title, author(s), abstract, research domain, keywords.</td>
-<td>All research domains.</td>
-<td>Most file types are supported, but non-proprietary files are preferred.</td>
-<td>Individual files should not exceed 10GB.</td>
-<td><a href="https://datadryad.org/help/requirements/costs">Priced per dataset size</a>.</td>
-</tr>
-<tr class="odd">
-<td><a href="https://figshare.com/">Figshare</a></td>
-<td>Required fields: item title, item type, author(s), categories, keywords, description, and license.</td>
-<td>All research domains.</td>
-<td>Almost all file types are supported.</td>
-<td>All figshare accounts are provided with 20GB of storage. Individual files cannot exceed 20GB.</td>
-<td>Free up to 20GB per figshare account. <a href="https://info.figshare.com/figshare-plus/">Plans are available for increased storage capacity</a>.</td>
-</tr>
-<tr class="even">
-<td><a href="https://zenodo.org/">Zenodo</a></td>
-<td>Required fields: title, publication date, creators, and description.</td>
-<td>All research domains.</td>
-<td>Most file types are supported, but non-proprietary formats are preferred.</td>
-<td>50GB per record with a maximum of 100 files.</td>
-<td>Free up to 50GB per record. A free one-time 200GB request is allowed.</td>
-</tr>
-<tr class="odd">
-<td><a href="https://www.pangaea.de/">PANGAEA</a></td>
-<td>Required fields: title, author(s), abstract, license, and parameters.</td>
-<td>Georeferenced data from earth system research.</td>
-<td>Focus on tabular data. Data should be formatted as TAB-delimited text files in UTF-8 encoding or open spreadsheet file formats (MS Excel).</td>
-<td>Individual files must be less than 15GB. Limit of 20 files per submission.</td>
-<td>Free but they accept a contribution for projects with funding for publication costs.</td>
-</tr>
-</tbody>
-</table>
-<p>Another resource you can use is the <a href="https://zenodo.org/records/17315963">Generalist Repository Comparison Chart</a>, designed by The American Geophysical Union and generalist repository collaborators. This chart explores other topics and repositories not mentioned above, including licensing options, persistent identifiers, and usage statistics.</p>
-<section id="metadata-standards-and-fair-data" class="level2">
-<h2 class="anchored" data-anchor-id="metadata-standards-and-fair-data"><strong>Metadata standards and FAIR data</strong></h2>
-<p>Metadata standards often drive the query logic behind these data repositories. It’s important to consider this when you are choosing your data repository. Think about how different requirements might make it easier, or more difficult, for your data to be discovered and accessed.</p>
-<p>While submitting to any of the above repositories often checks off the <strong>F</strong>indable and <strong>A</strong>ccessible points of the FAIR data standards, you also need to ensure that you are providing rich and contextual metadata alongside your data to ensure that it is also <strong>I</strong>nteroperable and <strong>R</strong>eusable. While some of the data repositories above have more relaxed metadata requirements, simply submitting your data with the minimum requirements won’t necessarily make them FAIR. It is recommended to go beyond the minimum metadata requirements when depositing your data to enhance discoverability and ensure reusability.</p>
-<p>While EDI’s Ecological Metadata Language is detailed and complex, they provide metadata generation tools that can make it easier to meet their requirements. For a great example of EML metadata, check out Ariel Johnson’s data set from the Forest Resilience Threshold Experiment (DOI https://doi.org/10.6073/pasta/8d563ea4ea39c03368487b2b34aa6987) (Full metadata <a href="https://portal.edirepository.org/nis/metadataviewer?packageid=edi.1844.1">here</a>)</p>
+<p>Rice Rivers Center (RRC) Data Management Policy requires research data collected at RRC or with RRC support to be deposited in a public data repository within 1 year of publication. This requirement is motivated by the <a href="https://www.go-fair.org/fair-principles/">FAIR Data Principles</a> for data to be <strong>F</strong>indable, <strong>A</strong>ccessible, <strong>I</strong>nteroperable, and <strong>R</strong>eusable. Developing a Data Management Plan (DMP) prior to beginning your research project helps ensure your data is FAIR by outlining data collection methods, metadata, archiving plans, and more.</p>
+<p>RRC has developed a DMP Template with additional guidance for developing your DMP. It’s recommended to fill out the template and submit your DMP alongside the RRC Project Registration Form.</p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

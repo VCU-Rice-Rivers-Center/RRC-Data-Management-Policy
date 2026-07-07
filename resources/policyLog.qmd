@@ -2,4 +2,4 @@
 title: "Data Management Policy Change Log"
 ---
 
-This is the change log for the RRC Data Management Policy
+* *07/07/2026* - Published Data Management Policy

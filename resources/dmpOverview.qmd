@@ -1,0 +1,13 @@
+---
+title: "Data Management Planning - Overview"
+---
+
+Rice Rivers Center (RRC) Data Management Policy requires research data collected at RRC or with RRC support
+to be deposited in a public data repository within 1 year of publication. This requirement is motivated by the 
+[FAIR Data Principles](https://www.go-fair.org/fair-principles/) for data to be **F**indable, **A**ccessible, 
+**I**nteroperable, and **R**eusable. Developing a Data Management Plan (DMP) prior to beginning your research 
+project helps ensure your data is FAIR by outlining data collection methods, metadata, archiving plans, and more.
+
+RRC has developed a DMP Template with additional guidance for developing your DMP. It's recommended to fill out the
+template and submit your DMP alongside the RRC Project Registration Form. 
+ 

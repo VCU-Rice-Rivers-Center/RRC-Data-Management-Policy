@@ -2,9 +2,9 @@
 title: "Data Management Policy"
 ---
 
-*It is acknowledged that this is an aspirational policy, and that implementation will take some years. Implementation plans for research data management and a research data portal are in development.* 
+*It is acknowledged that this is an aspirational policy, and that implementation will take some years.* 
 
-### RRC Data Management Goals
+## RRC Data Management Goals
 
 * Provide long term preservation and discoverability of data by adhering to FAIR (Findable, Accessible, Interoperable, Reusable) data principles.  
 * Ensure the long-term value and usability of datasets through proper metadata documentation and data archiving.   
@@ -13,9 +13,9 @@ title: "Data Management Policy"
 * Define roles and responsibilities for researchers, faculty, staff, and students participating in research, data management, and data dissemination with Rice Rivers Center.  
 * Provide researchers, contributors, and data users with support from data management staff including assistance with data planning, data access, advice with research data. .
 
-### RRC Data Management Services and Expectations
+## RRC Data Management Services and Expectations
 
-**Data Management Services**
+#### Data Management Services
 
 * *Data management planning* \- Data management staff will provide guidance and/or assistance with creating DMPs for proposals and projects based at RRC.   
 * *Project Registration* \- Data management staff will provide support for completing the project registration form including components such as project goals, study site descriptor and markers, and data management plan.   
@@ -24,17 +24,17 @@ title: "Data Management Policy"
 * *Data hosting* \- RRC will provide a local repository for public and private datasets and related research products.   
 * *Data publication* \- RRC will leverage a public data repository to serve up long term and high impact datasets collected at RRC. 
 
-**Expectations of Data Originators:**
+#### Expectations of Data Originators:
 
 * Submit new or revisited project registration forms  on a three year rotational basis (Principles Investigators) or annually (students).   
 * As part of project registration, submit a data management plan for new research projects.   
 * Adhere to standards of clean and well documented data. Conduct and thoroughly document quality control and assurance procedures before, during, and after data collection.  
 * Back up data regularly to keep research data secure.  
-* Deposit datasets in the RRC data repository or an approved data repository.   
+* Deposit final datasets in a public data repository.   
 * Share other research products with RRC including publications, reports, presentations.  
 * Adhere to the FAIR principles.
 
-### FAIR Data Sharing 
+## FAIR Data Sharing 
 
 * RRC encourages public data sharing in an effort to maintain FAIR data principles, but hosts both public and private data.   
 * Research data collected with support of RRC funds (i.e. scholarship or housing) or on RRC grounds should be made openly accessible whenever feasible, while also considering valid reasons for restricting access including legal, commercial and ethical considerations. A time-limited embargo may be used to ensure data are not made available for relevant publications.   
@@ -43,63 +43,67 @@ title: "Data Management Policy"
 * Data collected and cataloged at RRC can be either publicly available data or restricted data. Data originators can specify data as publicly available, meaning it can be downloaded without restriction or authentication, but data users are expected to read licensing and cite data originators as specified in the license. Data originators can also specify data as restricted, which means that RRC will share metadata publicly and keep data private, while providing data users with a mechanism to contact the data originator for accessing data.  
 * For publicly available data, RRC data management staff encourages researchers to submit data to the Environmental Data Initiative (EDI) or another appropriate repository, where a Digital Object Identifier (DOI) will be assigned, version and provenance tracking enabled, and generation of code for automated access to the data in pursuit of reproducible science.
 
-### Roles and Responsibilities 
+## Roles and Responsibilities 
 
-**RRC Data Management Staff**
+#### RRC Data Management Staff:
 
 * Data management staff and researchers will collaborate to implement data management best practices and meet funding agency and/or institutional requirements.   
 * Data management staff will provide researchers templates for a DMP and/or metadata.  
 * Data management staff will provide data management assistance to researchers to provide efficient and accurate collection of data and subsequent archival and sharing of research data products. 
 
-**Data Originators**  
-*General*
+#### Data Originators:  
+
+##### All Data Originators:
 
 * Data originators should deposit research data products collected using RRC resources or within the RRC footprint to a public data repository within 1 year of research publication. The data originator should classify the data as publicly available or restricted upon submission.  
 * For data that require more than 3 years to complete, data originators are encouraged to archive intermediate versions of their datasets to a public repository on an annual basis.  
 * All submitted datasets must be accompanied by high quality metadata to provide data users with the context required to utilize the data for scientific purposes, per FAIR principles.   
   * Metadata should adhere to the EML standard whenever possible.   
   * All metadata is considered public unless it contains information protected under federal or state regulations or due to proprietary, ethical, or privacy considerations.
+* Attribute RRC in all datasets, publications, and presentations derived from our center or support: 
+  * Affiliation Text: VCU Rice Rivers Center, 3701 John Tyler Memorial Highway, Charles City, Virginia 23030, USA
+  * Research Organization Registry ID: <https://ror.org/03k69wj69>
 
-*Faculty*
+##### Faculty
 
 * It is a goal to facilitate the archival of datasets produced by faculty and students participating in RRC courses, including datasets derived during class exercises.   
 * Faculty instructors are asked to adhere to the same standards as RRC researchers (DMP, data collection hygiene, metadata, etc.) and submit to an archive. The submitted data will be categorized as student-collected data.  
 * In exchange, data management staff can provide training and support, if desired, to students during instructional time. 
 
-*Students*
+##### Students
 
 * Undergraduate and graduate students are asked to adhere to the same standards as RRC researchers and submit data products to an archive. 
 
-**Data Users**
+#### Data Users:
 
 * The sharing and use of datasets at RRC are subject to the licenses assigned to the datasets.   
 * Data users should read and adhere to the assigned license and provide proper citations. 
 
-### Research Project Data Management Checkpoints
+## Research Project Data Management Checkpoints
 
-**Project Proposal**
+#### Project Registration:
 
 * Researchers are provided with a project registration form and a data management plan (DMP) template.  
 * If field work is to be done on RRC property, the researcher must report proposed locations of any installation of equipment, manipulations beyond pure field observation, and expected impact to ecological surroundings.  
 * Any large manipulations or construction of semi-permanent infrastructure will need to be reviewed by RRC staff and the research project review committee. This information will be used to identify potential conflicts with ongoing research programs, space constraints, management issues, and assess RRC’s ability to support the project.  
 * After an approved project has been running for 3 years, RRC requests a revised project registration which is subject to review by RRC staff.
 
-**Project Initiation**
+#### Project Initiation:
 
 * Researchers should specify environmental health and safety considerations, resources needed, and dates desired to be at RRC during project registration.  
 * For projects with high sensitivity, researchers are encouraged to physically delineate research plots and work with the data manager to update the active project map.   
 * When at RRC grounds and performing field work, researchers should familiarize themselves with active research locations and avoid disturbance of active research in an effort to maintain high-quality datasets.
 
-**Project Updates**
+#### Project Updates:
 
 * For a new field season, researchers are encouraged to submit or revise the previous year’s intermediate data products and metadata. This provides researchers with an additional data back-up and provides RRC data management staff access to the data and metadata well in advance of publication.
 
-**Project Completion**
+#### Project Completion:
 
 * At project completion, researchers are expected to provide final versions of data collected and the final complete metadata to ensure data is discoverable, understandable, and reusable per FAIR data standards. Where access to data is restricted, the published metadata should give the reason and summarize conditions which must be satisfied for access to be granted.   
 * The researcher should submit other research products to the RRC data management staff. 
 
-**Publications and Reports**
+#### Publications and Reports:
 
 * An electronic copy of all reports, peer-reviewed papers, theses/dissertations, presentations, or final manuscripts derived from datasets collected using field station resources or within the RRC footprint must be submitted to the data management staff at time of completion.
 

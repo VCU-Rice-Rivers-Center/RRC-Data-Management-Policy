@@ -13,9 +13,9 @@ website:
       - text: "Data Management Policy"
         href: resources/policy.qmd
       - text: "Data Management Planning"
-        href: resources/dmp.qmd
+        href: resources/dmpOverview.qmd
       - text: "Publishing Data"
-        href: resources/publishing.qmd
+        href: resources/publishingOverview.qmd
     right:
       - icon: github
         href: https://github.com/VCU-Rice-Rivers-Center
@@ -31,6 +31,15 @@ website:
           text: "Data Management Policy"
         - href: resources/policyLog.qmd
           text: "Change Log"
+    - title: "Data Management Planning"
+      style: "floating"
+      collapse: true
+      align: left
+      contents:
+        - href: resources/dmpOverview.qmd
+          text: "Overview"
+        - href: resources/dmp.qmd
+          text: "DMP Guide"
     - title: "Publishing Data"
       style: "floating"
       collapse: true
@@ -43,3 +52,6 @@ website:
         - href: resources/domainRepos.qmd
           text: "Domain Specific Repositories"
 
+format:
+  html:
+    theme: cosmo
