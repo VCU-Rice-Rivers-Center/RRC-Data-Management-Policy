@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+website: 
+  title: "Rice Rivers Center - Data Management Resources"
+  navbar:
+    background: light
+    logo: /images/RRCLogo_square.png
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Data Management Policy"
+        href: resources/policy.qmd
+      - text: "Data Management Planning"
+        href: resources/dmp.qmd
+      - text: "Publishing Data"
+        href: resources/publishing.qmd
+    right:
+      - icon: github
+        href: https://github.com/VCU-Rice-Rivers-Center
+        aria-label: Quarto GitHub
+        
+  sidebar:
+    - title: "Data Management Policy"
+      style: "floating"
+      collapse: true
+      align: left
+      contents:
+        - href: resources/policy.qmd
+          text: "Data Management Policy"
+        - href: resources/policyLog.qmd
+          text: "Change Log"
+    - title: "Publishing Data"
+      style: "floating"
+      collapse: true
+      align: left
+      contents:
+        - href: resources/publishingOverview.qmd
+          text: "Overview"
+        - href: resources/repoChart.qmd
+          text: "Repository Comparison Chart"
+        - href: resources/domainRepos.qmd
+          text: "Domain Specific Repositories"
+

@@ -1,5 +1,5 @@
 ---
-title: Domain Specific Repositories 
+title: "Domain Specific Repositories"
 ---
 
 ### About this document
@@ -23,7 +23,3 @@ at RRC.
 Wisconsin's EnSpec Lab.
 * Datasets are eligible to receive a DOI, providing persistent access across the user
 community. 
-
-
-
-
