@@ -1,5 +1,6 @@
 ---
-title: "Data Management Policy Change Log"
+title: "Change Log"
 ---
 
 * *07/07/2026* - Published Data Management Policy
+* *08/19/2026* - Added the RRC Metadata Form
